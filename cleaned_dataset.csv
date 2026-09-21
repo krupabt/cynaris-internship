@@ -1,0 +1,9 @@
+Customer,Region,Product,Sales,Quantity,Rating
+anu,south,laptop,50000.0,2.0,4.5
+ravi,north,phone,25000.0,1.0,4.0
+priya,south,laptop,50000.0,3.0,4.2
+anu,south,laptop,52000.0,2.0,4.2
+ravi,north,phone,26000.0,2.0,3.8
+kiran,west,tablet,18000.0,1.0,4.1
+priya,west,laptop,60000.0,3.0,4.7
+anu,south,laptop,96375.0,2.0,5.0
