@@ -1,0 +1,11 @@
+KPI,Formula,Owner,Frequency,Target,Type
+Revenue Growth,((Current Revenue - Previous Revenue) / Previous Revenue) * 100,Sales Manager,Monthly,10%,Lagging
+Customer Acquisition Cost,Total Marketing Cost / New Customers,Marketing Manager,Monthly,500,Leading
+Customer Retention Rate,((Customers at End - New Customers) / Customers at Start) * 100,Customer Success Manager,Monthly,90%,Lagging
+Conversion Rate,(Conversions / Total Visitors) * 100,Marketing Manager,Weekly,5%,Leading
+Average Order Value,Total Revenue / Number of Orders,Sales Manager,Monthly,2500,Lagging
+Customer Churn Rate,(Lost Customers / Customers at Start) * 100,Customer Success Manager,Monthly,<5%,Lagging
+Website Traffic,Total Number of Website Visitors,Digital Marketing Manager,Weekly,50000,Leading
+Cart Abandonment Rate,(Abandoned Carts / Total Carts) * 100,E-commerce Manager,Weekly,<30%,Leading
+Gross Profit Margin,(Gross Profit / Revenue) * 100,Finance Manager,Monthly,30%,Lagging
+Customer Satisfaction Score,Sum of Customer Ratings / Number of Responses,Customer Success Manager,Monthly,4.5/5,Leading
