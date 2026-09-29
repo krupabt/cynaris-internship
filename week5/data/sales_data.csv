@@ -1,0 +1,16 @@
+Date,Product,Category,Region,Units_Sold,Unit_Price,Revenue,Customer_Rating
+2026-01-05,Laptop,Electronics,South,12,55000,660000,4.5
+2026-01-08,Phone,Electronics,South,25,25000,625000,4.2
+2026-01-12,Tablet,Electronics,North,18,30000,540000,4.3
+2026-01-15,Headphones,Accessories,West,40,2000,80000,4.1
+2026-01-20,Monitor,Electronics,East,15,12000,180000,4.4
+2026-02-02,Laptop,Electronics,North,10,55000,550000,4.6
+2026-02-07,Phone,Electronics,West,30,25000,750000,4.0
+2026-02-14,Keyboard,Accessories,South,35,1500,52500,4.2
+2026-02-18,Mouse,Accessories,East,50,800,40000,4.0
+2026-02-25,Tablet,Electronics,South,22,30000,660000,4.5
+2026-03-03,Laptop,Electronics,West,14,55000,770000,4.7
+2026-03-09,Phone,Electronics,North,28,25000,700000,4.3
+2026-03-15,Monitor,Electronics,South,20,12000,240000,4.4
+2026-03-21,Headphones,Accessories,North,45,2000,90000,4.1
+2026-03-28,Keyboard,Accessories,West,32,1500,48000,4.0
